@@ -1,5 +1,5 @@
 {
-  "name": "ex003",
+  "name": "01-modulo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,8 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
-  "dependencies": {
-    "express": "^5.2.1"
-  }
+  "type": "commonjs"
 }
